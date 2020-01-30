@@ -1,0 +1,10 @@
+{
+	 "base_urls" : [
+		{
+			"url": "https://rss.app/feeds/OvCp56alosIDvvGs.xml",
+			"crawler": "RssCrawler",
+			"daemonize": 3600
+		}
+	]
+}
+
