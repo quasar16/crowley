@@ -2,5 +2,5 @@
 
 cfg=$1
 
-newsplease -c "$cfg" -reset-elasticsearch
-newsplease -c "$cfg"
+news-please -c "$cfg" -reset-elasticsearch
+news-please -c "$cfg"
